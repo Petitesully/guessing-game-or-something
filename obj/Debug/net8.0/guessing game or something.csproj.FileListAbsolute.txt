@@ -1,0 +1,14 @@
+/Users/bigpoppa/Desktop/guessing game or something/bin/Debug/net8.0/guessing game or something
+/Users/bigpoppa/Desktop/guessing game or something/bin/Debug/net8.0/guessing game or something.deps.json
+/Users/bigpoppa/Desktop/guessing game or something/bin/Debug/net8.0/guessing game or something.runtimeconfig.json
+/Users/bigpoppa/Desktop/guessing game or something/bin/Debug/net8.0/guessing game or something.dll
+/Users/bigpoppa/Desktop/guessing game or something/bin/Debug/net8.0/guessing game or something.pdb
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/guessing game or something.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/guessing game or something.AssemblyInfoInputs.cache
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/guessing game or something.AssemblyInfo.cs
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/guessing game or something.csproj.CoreCompileInputs.cache
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/guessing game or something.dll
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/refint/guessing game or something.dll
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/guessing game or something.pdb
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/guessing game or something.genruntimeconfig.cache
+/Users/bigpoppa/Desktop/guessing game or something/obj/Debug/net8.0/ref/guessing game or something.dll
